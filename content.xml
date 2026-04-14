@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260414195218B14Q3X</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260414195218K02ET3</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>VÉRTIGO MATEMÁTICO: Operación montaña rusa 🎢</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Juan Alcántara Castro</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Recurso educativo interactivo diseñado para 2º de ESO (Matemáticas) que integra el uso de software de simulación (Desmos) con la construcción física de modelos. El objetivo es el estudio de las características de las funciones mediante metodologías activas y el uso de tecnologías digitales seguras.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776188259402</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>c2657a00-c2bf-4532-a247-96c6fffb0d9f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>c2657a00-c2bf-4532-a247-96c6fffb0d9f</odePageId>
+      <odeBlockId>block-1776184965130-z2bcxudgi</odeBlockId>
+      <blockName>🚀 ¡Bienvenidos al Equipo, Ingenieros de Adrenalina!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>c2657a00-c2bf-4532-a247-96c6fffb0d9f</odePageId>
+          <odeBlockId>block-1776184965130-z2bcxudgi</odeBlockId>
+          <odeIdeviceId>idevice-1776184965124-gd8owga0f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Felicidades! Habéis sido seleccionados por la constructora líder en parques de atracciones para liderar nuestro proyecto más ambicioso hasta la fecha. No buscamos simples dibujantes; necesitamos Ingenieros de Adrenalina capaces de transformar ecuaciones abstractas en pura emoción física. Vuestra misión es diseñar y construir una montaña rusa donde la seguridad y la diversión dependan de un cálculo impecable. Si vuestras pendientes no son las adecuadas o los puntos de corte fallan, el proyecto se quedará estancado y la bola no llegará a su destino.</p>
+<p><br />Para triunfar, deberéis demostrar vuestra maestría técnica en dos mundos. Primero, dominaréis el simulador digital Desmos, ajustando cada raíl con precisión matemática mediante funciones. Después, trasladaréis vuestro diseño al taller para construir una estructura real con alambre y corcho. Recordad: el éxito de vuestra carrera depende de vuestra capacidad para identificar cada máximo, mínimo y cambio de pendiente. Un error en el papel significa un fallo en la pista. ¿Estáis listos para que las matemáticas os lleven a lo más alto?.</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/unnamed (1).png" width="1536" height="857" alt="Imagen generada con la IA NotebookLM." /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776184965124-gd8owga0f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Felicidades! Habéis sido seleccionados por la constructora líder en parques de atracciones para liderar nuestro proyecto más ambicioso hasta la fecha. No buscamos simples dibujantes; necesitamos Ingenieros de Adrenalina capaces de transformar ecuaciones abstractas en pura emoción física. Vuestra misión es diseñar y construir una montaña rusa donde la seguridad y la diversión dependan de un cálculo impecable. Si vuestras pendientes no son las adecuadas o los puntos de corte fallan, el proyecto se quedará estancado y la bola no llegará a su destino.</p>\n<p><br />Para triunfar, deberéis demostrar vuestra maestría técnica en dos mundos. Primero, dominaréis el simulador digital Desmos, ajustando cada raíl con precisión matemática mediante funciones. Después, trasladaréis vuestro diseño al taller para construir una estructura real con alambre y corcho. Recordad: el éxito de vuestra carrera depende de vuestra capacidad para identificar cada máximo, mínimo y cambio de pendiente. Un error en el papel significa un fallo en la pista. ¿Estáis listos para que las matemáticas os lleven a lo más alto?.</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/unnamed (1).png\" width=\"1536\" height=\"857\" alt=\"Imagen generada con la IA NotebookLM.\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776185183747-bifz1tiw0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica (para el profesorado)</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica (para el profesorado)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776185183747-bifz1tiw0</odePageId>
+      <odeBlockId>block-1776185315673-irksftfug</odeBlockId>
+      <blockName>Contextualización del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776185183747-bifz1tiw0</odePageId>
+          <odeBlockId>block-1776185315673-irksftfug</odeBlockId>
+          <odeIdeviceId>idevice-1776185315663-n3hv4fy8q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Título Descriptivo</strong></p>
+<p>"Las funciones son una montaña rusa: Del reto digital a la maqueta real"</p>
+<p><strong>2. Centro de interés o temática: </strong></p>
+<p>Estudio de las características de las funciones (crecimiento, decrecimiento, máximos, mínimos y puntos de corte) mediante la simulación digital y la construcción de modelos físicos.</p>
+<p><strong>3. Nivel al que va dirigido: </strong>2º de Educación Secundaria Obligatoria (ESO).</p>
+<p><strong>4. Temporalización aproximada: </strong>12 sesiones (repartidas en 3 semanas). Incluye fase de simulación, diseño en papel, construcción y exposición final.</p>
+<p><strong>5. Materia o materias implicadas: </strong>Matemáticas (con vinculación a Tecnología en la parte de construcción).</p>
+<p><strong>6. Idioma: </strong>Castellano.</p>
+<p><strong>7. Descripción general: </strong>Esta Situación de Aprendizaje (SdA) propone un viaje desde la abstracción matemática hasta la realidad física. Consta de una fase digital en la que el alumnado utilizará el reto “Marble Slide” de GeoGebra/Desmos para comprender de forma intuitiva cómo las ecuaciones modifican la trayectoria de una bola, y una fase de diseño en la que trasladan esos conceptos al papel, inventando una situación real y definiendo sus ejes y puntos clave.</p>
+<p>Como producto final, en grupos de 4, construyen una montaña rusa funcional con alambre y corcho donde una bola debe poder circular, representando físicamente la gráfica diseñada. Finaliza con una exposición oral de 6 minutos donde explican el comportamiento de su función.</p>
+<p><strong>8. Justificación (Basada en la Rutina de Pensamiento 1.1)</strong></p>
+<p>La elección de este proyecto se fundamenta en la reflexión realizada en la fase anterior del curso (Ciclo de Gibbs). En mi reflexión 1.1, detecté que el alumnado se bloqueaba ante fallos técnicos digitales. Al añadir una fase de construcción física, fomentamos que apliquen la resolución de problemas en dos entornos: el digital (software) y el analógico (estructura de la maqueta). Esta SdA no se queda en el uso puntual de una herramienta (como pasó en mi primera experiencia con Desmos), sino que integra la tecnología en una secuencia completa y coherente (eXeLearning) que atiende a diferentes estilos de aprendizaje (visual, cinestésico y digital).</p>
+<p>La reflexión previa sobre la brecha digital me llevó a diseñar un proyecto donde el éxito no depende solo de tener un buen dispositivo. Al trabajar en grupos de 4 y tener un producto final físico, garantizamos que todos los alumnos puedan aportar según sus capacidades, cumpliendo con los principios de presencia, participación y progreso del DUA.</p>
+<p>Además, tras concluir en la rutina 1.1 que yo intervenía demasiado, esta SdA está diseñada para que el docente sea un facilitador. El alumnado debe tomar decisiones técnicas sobre su maqueta y su simulación, asumiendo la responsabilidad de su propio proceso de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776185315663-n3hv4fy8q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Título Descriptivo</strong></p>\n<p>\"Las funciones son una montaña rusa: Del reto digital a la maqueta real\"</p>\n<p><strong>2. Centro de interés o temática: </strong></p>\n<p>Estudio de las características de las funciones (crecimiento, decrecimiento, máximos, mínimos y puntos de corte) mediante la simulación digital y la construcción de modelos físicos.</p>\n<p><strong>3. Nivel al que va dirigido: </strong>2º de Educación Secundaria Obligatoria (ESO).</p>\n<p><strong>4. Temporalización aproximada: </strong>12 sesiones (repartidas en 3 semanas). Incluye fase de simulación, diseño en papel, construcción y exposición final.</p>\n<p><strong>5. Materia o materias implicadas: </strong>Matemáticas (con vinculación a Tecnología en la parte de construcción).</p>\n<p><strong>6. Idioma: </strong>Castellano.</p>\n<p><strong>7. Descripción general: </strong>Esta Situación de Aprendizaje (SdA) propone un viaje desde la abstracción matemática hasta la realidad física. Consta de una fase digital en la que el alumnado utilizará el reto “Marble Slide” de GeoGebra/Desmos para comprender de forma intuitiva cómo las ecuaciones modifican la trayectoria de una bola, y una fase de diseño en la que trasladan esos conceptos al papel, inventando una situación real y definiendo sus ejes y puntos clave.</p>\n<p>Como producto final, en grupos de 4, construyen una montaña rusa funcional con alambre y corcho donde una bola debe poder circular, representando físicamente la gráfica diseñada. Finaliza con una exposición oral de 6 minutos donde explican el comportamiento de su función.</p>\n<p><strong>8. Justificación (Basada en la Rutina de Pensamiento 1.1)</strong></p>\n<p>La elección de este proyecto se fundamenta en la reflexión realizada en la fase anterior del curso (Ciclo de Gibbs). En mi reflexión 1.1, detecté que el alumnado se bloqueaba ante fallos técnicos digitales. Al añadir una fase de construcción física, fomentamos que apliquen la resolución de problemas en dos entornos: el digital (software) y el analógico (estructura de la maqueta). Esta SdA no se queda en el uso puntual de una herramienta (como pasó en mi primera experiencia con Desmos), sino que integra la tecnología en una secuencia completa y coherente (eXeLearning) que atiende a diferentes estilos de aprendizaje (visual, cinestésico y digital).</p>\n<p>La reflexión previa sobre la brecha digital me llevó a diseñar un proyecto donde el éxito no depende solo de tener un buen dispositivo. Al trabajar en grupos de 4 y tener un producto final físico, garantizamos que todos los alumnos puedan aportar según sus capacidades, cumpliendo con los principios de presencia, participación y progreso del DUA.</p>\n<p>Además, tras concluir en la rutina 1.1 que yo intervenía demasiado, esta SdA está diseñada para que el docente sea un facilitador. El alumnado debe tomar decisiones técnicas sobre su maqueta y su simulación, asumiendo la responsabilidad de su propio proceso de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776185183747-bifz1tiw0</odePageId>
+      <odeBlockId>block-1776186798022-8oooc01se</odeBlockId>
+      <blockName>Panel de curación docente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776185183747-bifz1tiw0</odePageId>
+          <odeBlockId>block-1776186798022-8oooc01se</odeBlockId>
+          <odeIdeviceId>idevice-1776186798021-kg8hm6pqx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la organización diaria del aula y el acceso rápido a simuladores, materiales y herramientas de evaluación, el docente utiliza un panel de curación centralizado en Symbaloo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776186798021-kg8hm6pqx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la organización diaria del aula y el acceso rápido a simuladores, materiales y herramientas de evaluación, el docente utiliza un panel de curación centralizado en Symbaloo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776185183747-bifz1tiw0</odePageId>
+      <odeBlockId>block-1776186732703-5mmxcmynk</odeBlockId>
+      <blockName>Symbaloo de referencia para el docente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776185183747-bifz1tiw0</odePageId>
+          <odeBlockId>block-1776186732703-5mmxcmynk</odeBlockId>
+          <odeIdeviceId>idevice-1776186732702-zq638q79q</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.symbaloo.com/shared/AAAABGN_rtwAA41_l12G7Q==" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776185183747-bifz1tiw0</odePageId>
+      <odeBlockId>block-1776185591352-i8b3uvm17</odeBlockId>
+      <blockName>Asociación de tareas a criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776185183747-bifz1tiw0</odePageId>
+          <odeBlockId>block-1776185591352-i8b3uvm17</odeBlockId>
+          <odeIdeviceId>idevice-1776185591350-dozy7bgrj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Visitando el siguiente enlace se accede a una tabla en la que se asocia cada tarea de la SdA a sus criterios de evaluación correspondientes:</p>
+<p><a href="https://docs.google.com/document/d/1_Q9AmzihHtV-jMkBQpGawirD7VG1n_7JiplYKogQFDw/edit?usp=sharing" title="">https://docs.google.com/document/d/1_Q9AmzihHtV-jMkBQpGawirD7VG1n_7JiplYKogQFDw/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776185591350-dozy7bgrj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Visitando el siguiente enlace se accede a una tabla en la que se asocia cada tarea de la SdA a sus criterios de evaluación correspondientes:</p>\n<p><a href=\"https://docs.google.com/document/d/1_Q9AmzihHtV-jMkBQpGawirD7VG1n_7JiplYKogQFDw/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1_Q9AmzihHtV-jMkBQpGawirD7VG1n_7JiplYKogQFDw/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776185672111-7fo8sskw3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776185672111-7fo8sskw3</odePageId>
+      <odeBlockId>block-1776185749684-y6jlckbe7</odeBlockId>
+      <blockName>Indicaciones y recomendaciones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776185672111-7fo8sskw3</odePageId>
+          <odeBlockId>block-1776185749684-y6jlckbe7</odeBlockId>
+          <odeIdeviceId>idevice-1776185749680-qp51hr9zg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Es importante tener en cuenta una serie de recomendaciones para que os sintáis seguros/as a la hora de realizar los trabajos digitales y de expresaros con vuestra identidad digital. Os dejo por aquí una infografía con las indicaciones fundamentales a tener en cuenta sobre protección de datos personales y garantías de derechos digitales.</p>
+<p><img src="{{context_path}}/content/resources/Yellow And Black Modern Rules Hazard Prevention Work Safety Infographic.png" width="943" height="2000" alt="Imagen propia realizada con Canva." /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776185749680-qp51hr9zg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es importante tener en cuenta una serie de recomendaciones para que os sintáis seguros/as a la hora de realizar los trabajos digitales y de expresaros con vuestra identidad digital. Os dejo por aquí una infografía con las indicaciones fundamentales a tener en cuenta sobre protección de datos personales y garantías de derechos digitales.</p>\n<p><img src=\"{{context_path}}/content/resources/Yellow And Black Modern Rules Hazard Prevention Work Safety Infographic.png\" width=\"943\" height=\"2000\" alt=\"Imagen propia realizada con Canva.\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776186066137-min72d4dx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué vamos a hacer?</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a hacer?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776186066137-min72d4dx</odePageId>
+      <odeBlockId>block-1776186160799-0r11xcfka</odeBlockId>
+      <blockName>Línea temporal de la Situación de Aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776186066137-min72d4dx</odePageId>
+          <odeBlockId>block-1776186160799-0r11xcfka</odeBlockId>
+          <odeIdeviceId>idevice-1776186160794-i6yz78pl8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí tienes la hoja de ruta de nuestras próximas 3 semanas. Consulta este cronograma para saber en qué fase estamos: ¿Exploración digital o construcción de la maqueta?</p>
+<p><img src="{{context_path}}/content/resources/Gráfico de Recorrido Timeline Sencillo Colores Pasteles.png" width="1024" height="768" alt="Imagen realizada en Canva." /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776186160794-i6yz78pl8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí tienes la hoja de ruta de nuestras próximas 3 semanas. Consulta este cronograma para saber en qué fase estamos: ¿Exploración digital o construcción de la maqueta?</p>\n<p><img src=\"{{context_path}}/content/resources/Gráfico de Recorrido Timeline Sencillo Colores Pasteles.png\" width=\"1024\" height=\"768\" alt=\"Imagen realizada en Canva.\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776186309583-atw5i6t7e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>El reto: nuestro producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El reto: nuestro producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776186309583-atw5i6t7e</odePageId>
+      <odeBlockId>block-1776186563340-3q92o53wn</odeBlockId>
+      <blockName>Herramientas que utilizaremos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776186309583-atw5i6t7e</odePageId>
+          <odeBlockId>block-1776186563340-3q92o53wn</odeBlockId>
+          <odeIdeviceId>idevice-1776186563336-6qfuh20bu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para convertiros en ingenieros de adrenalina, utilizaremos un ecosistema digital diseñado para que vuestro trabajo sea preciso, creativo y seguro.</p>
+<ul>
+<li><strong>Desmos:</strong> Vuestra mesa de diseño. Aquí validaréis que las matemáticas funcionan antes de tocar el alambre. Es una herramienta accesible, gratuita y de alto contraste.</li>
+<li><strong>Padlet: </strong>Vuestro diario de ingeniería. Aquí documentaréis cada paso, desde el primer boceto hasta el video final de la bola rodando.</li>
+</ul>
+<p>A continuación podéis encontrar los enlaces a ambas páginas web.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776186563336-6qfuh20bu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para convertiros en ingenieros de adrenalina, utilizaremos un ecosistema digital diseñado para que vuestro trabajo sea preciso, creativo y seguro.</p>\n<ul>\n<li><strong>Desmos:</strong> Vuestra mesa de diseño. Aquí validaréis que las matemáticas funcionan antes de tocar el alambre. Es una herramienta accesible, gratuita y de alto contraste.</li>\n<li><strong>Padlet: </strong>Vuestro diario de ingeniería. Aquí documentaréis cada paso, desde el primer boceto hasta el video final de la bola rodando.</li>\n</ul>\n<p>A continuación podéis encontrar los enlaces a ambas páginas web.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776186309583-atw5i6t7e</odePageId>
+      <odeBlockId>block-1776186646879-8n2m78u3g</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776186309583-atw5i6t7e</odePageId>
+          <odeBlockId>block-1776186646879-8n2m78u3g</odeBlockId>
+          <odeIdeviceId>idevice-1776186646877-hw053ifgv</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/jalccas/matem-ticas-2-eso-isg6qb0wquw8zq3f" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776186309583-atw5i6t7e</odePageId>
+      <odeBlockId>block-1776186673678-e0g19t934</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776186309583-atw5i6t7e</odePageId>
+          <odeBlockId>block-1776186673678-e0g19t934</odeBlockId>
+          <odeIdeviceId>idevice-1776186673677-1x7d40y5y</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://my.amplify.com/auth/realms/Amplify/protocol/openid-connect/auth?client_id=edam&redirect_uri=https%3A%2F%2Fmy.amplify.com%2Fadmin-portal%2Fenrollment%2F%23%2Fclasses%3FsourceActivityTitle%3DTobog%25C3%25A1n%2520de%2520canicas%253A%2520Rectas%26sourceActivityUrl%3Dhttps%253A%252F%252Fclassroom.amplify.com%252Factivity%252F566b31734e38e1e21a10aac8%253Flang%253Des%2526collections%253D651ca31cf69ee59aa9e3818a%25252C68d5843a1f9c443819cfedd7%25252C5e73b204d560367270838c4b&state=46bccf71-fbb6-4bd3-9279-b670a2f03f89&response_mode=fragment&response_type=code&scope=openid&nonce=8e5fe089-0bae-4305-8097-cf18cc6a28a6&code_challenge=beISDU007oXPWBVuLUAj6kV-nDNqBNOWav2WrvbC2NM&code_challenge_method=S256" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776186309583-atw5i6t7e</odePageId>
+      <odeBlockId>block-1776187059024-2w5mn0yfo</odeBlockId>
+      <blockName>El producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776186309583-atw5i6t7e</odePageId>
+          <odeBlockId>block-1776187059024-2w5mn0yfo</odeBlockId>
+          <odeIdeviceId>idevice-1776187059018-vzjll1iax</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vuestro objetivo es diseñar y construir una montaña rusa funcional que no solo sea emocionante, sino que sea matemáticamente perfecta. Deberéis demostrar que domináis las funciones representándolas en una maqueta real donde una bola pueda circular sin detenerse.</p>
+<p>El producto final consta de dos partes inseparables:</p>
+<ul>
+<li><strong>La Maqueta Física: </strong>Una representación tridimensional de una función matemática.</li>
+<li><strong>La Exposición Oral: </strong>Una defensa de 6 minutos explicando vuestro diseño y los conceptos matemáticos aplicados.</li>
+</ul>
+<p>Tenéis un manual de instrucciones detallado en el siguiente enlace: </p>
+<p><a href="https://docs.google.com/document/d/1-jBwoHRpFWc65d6K3OCvOyBNrhahS38m8mnaiwvICIk/edit?usp=sharing">https://docs.google.com/document/d/1-jBwoHRpFWc65d6K3OCvOyBNrhahS38m8mnaiwvICIk/edit?usp=sharing</a></p>
+<p>En la siguiente imagen encontráis además un ejemplo de cómo debería quedar el resultado final:</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-14 192002.png" width="595" height="443" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776187059018-vzjll1iax","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vuestro objetivo es diseñar y construir una montaña rusa funcional que no solo sea emocionante, sino que sea matemáticamente perfecta. Deberéis demostrar que domináis las funciones representándolas en una maqueta real donde una bola pueda circular sin detenerse.</p>\n<p>El producto final consta de dos partes inseparables:</p>\n<ul>\n<li><strong>La Maqueta Física: </strong>Una representación tridimensional de una función matemática.</li>\n<li><strong>La Exposición Oral: </strong>Una defensa de 6 minutos explicando vuestro diseño y los conceptos matemáticos aplicados.</li>\n</ul>\n<p>Tenéis un manual de instrucciones detallado en el siguiente enlace: </p>\n<p><a href=\"https://docs.google.com/document/d/1-jBwoHRpFWc65d6K3OCvOyBNrhahS38m8mnaiwvICIk/edit?usp=sharing\">https://docs.google.com/document/d/1-jBwoHRpFWc65d6K3OCvOyBNrhahS38m8mnaiwvICIk/edit?usp=sharing</a></p>\n<p>En la siguiente imagen encontráis además un ejemplo de cómo debería quedar el resultado final:</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-14 192002.png\" width=\"595\" height=\"443\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776187368949-ed7br6nio</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Cómo se os evalúa?</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo se os evalúa?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Cómo se os evalúa?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo se os evalúa?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776187368949-ed7br6nio</odePageId>
+      <odeBlockId>block-1776187524518-p3ks5ing9</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776187368949-ed7br6nio</odePageId>
+          <odeBlockId>block-1776187524518-p3ks5ing9</odeBlockId>
+          <odeIdeviceId>idevice-1776187524514-2yejvnstz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Evaluar no es solo poner una nota al final; es el mapa que os guiará durante todo el proyecto. En esta SdA, usaremos tres instrumentos para medir vuestro progreso en diferentes momentos. <strong>¡Recordad consultarlos antes de entregar nada!</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776187524514-2yejvnstz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Evaluar no es solo poner una nota al final; es el mapa que os guiará durante todo el proyecto. En esta SdA, usaremos tres instrumentos para medir vuestro progreso en diferentes momentos. <strong>¡Recordad consultarlos antes de entregar nada!</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776187368949-ed7br6nio</odePageId>
+      <odeBlockId>block-1776187555876-7jrj74b4x</odeBlockId>
+      <blockName>Fase digital: Desmos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776187368949-ed7br6nio</odePageId>
+          <odeBlockId>block-1776187555876-7jrj74b4x</odeBlockId>
+          <odeIdeviceId>idevice-1776187555875-23cvham1b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Mientras estéis superando los retos en Desmos, usaremos esta lista para ver cómo manejáis las matemáticas digitales. No os preocupéis si algo no sale a la primera: ¡estamos aprendiendo!</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-14 192733.png" width="622" height="492" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776187555875-23cvham1b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Mientras estéis superando los retos en Desmos, usaremos esta lista para ver cómo manejáis las matemáticas digitales. No os preocupéis si algo no sale a la primera: ¡estamos aprendiendo!</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-14 192733.png\" width=\"622\" height=\"492\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776187368949-ed7br6nio</odePageId>
+      <odeBlockId>block-1776187690800-d129u8wvb</odeBlockId>
+      <blockName>El producto final: Maqueta y exposición</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776187368949-ed7br6nio</odePageId>
+          <odeBlockId>block-1776187690800-d129u8wvb</odeBlockId>
+          <odeIdeviceId>idevice-1776187690789-npf299jdn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la calificación final, utilizaremos estas rúbricas. Fijaos bien en la columna de "Excelente", ¡ese es vuestro objetivo!</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-14 192920.png" width="557" height="771" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-14 192959.png" width="550" height="613" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776187690789-npf299jdn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la calificación final, utilizaremos estas rúbricas. Fijaos bien en la columna de \"Excelente\", ¡ese es vuestro objetivo!</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-14 192920.png\" width=\"557\" height=\"771\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-14 192959.png\" width=\"550\" height=\"613\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776187368949-ed7br6nio</odePageId>
+      <odeBlockId>block-1776187844700-gkkra1udr</odeBlockId>
+      <blockName>¡Tú también evalúas!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776187368949-ed7br6nio</odePageId>
+          <odeBlockId>block-1776187844700-gkkra1udr</odeBlockId>
+          <odeIdeviceId>idevice-1776187844697-u6ptxr03a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Utilizaremos la herramienta CoRubrics. Esto significa que:</p>
+<ul>
+<li>Tus compañeros te evaluarán: Valoraréis el trabajo de los otros grupos de forma justa.</li>
+<li><em>Feedback</em> inmediato: Recibiréis un correo electrónico automático con vuestras notas y los comentarios de mejora.</li>
+<li>Justicia grupal: Si alguien del grupo no participa, la nota se ajustará individualmente. ¡Todos a una!</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776187844697-u6ptxr03a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Utilizaremos la herramienta CoRubrics. Esto significa que:</p>\n<ul>\n<li>Tus compañeros te evaluarán: Valoraréis el trabajo de los otros grupos de forma justa.</li>\n<li><em>Feedback</em> inmediato: Recibiréis un correo electrónico automático con vuestras notas y los comentarios de mejora.</li>\n<li>Justicia grupal: Si alguien del grupo no participa, la nota se ajustará individualmente. ¡Todos a una!</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776187978574-ud4n1kgui</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776187978574-ud4n1kgui</odePageId>
+      <odeBlockId>block-1776188136753-bip4cx2t0</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776187978574-ud4n1kgui</odePageId>
+          <odeBlockId>block-1776188136753-bip4cx2t0</odeBlockId>
+          <odeIdeviceId>idevice-1776188136752-7rrflov2s</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">VÉRTIGO MATEMÁTICO: Operación Montaña Rusa 🎢</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
